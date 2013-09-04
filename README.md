@@ -9,6 +9,7 @@ Streams supports four commands: ls, add, cp, and rm.
 **rm**: deletes a stream in the specified file
 
 ## Example
+```
 C:\>streams C:\octocat.jpg ls
 ::$DATA - 5763
 :Zone.Identifier:$DATA - 26
