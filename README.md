@@ -3,10 +3,11 @@ A simple tool to list, add, remove, and copy NTFS alternate data streams. All th
 
 ## Command Descriptions
 Streams supports four commands: ls, add, cp, and rm.
-**ls**: lists all the streams associated with the specified file. Streams are listed in the format <name> - <size>
-**add**: adds a new stream to the specified file using a file and name given.
-**cp**: copies the specified stream to a file
-**rm**: deletes a stream in the specified file
+
+**ls**: lists all the streams associated with the specified file. Streams are listed in the format: "name - size"<br>
+**add**: adds a new stream to the specified file using a file and name given.<br>
+**cp**: copies the specified stream to a file<br>
+**rm**: deletes a stream in the specified file<br>
 
 ## Example
 ```
